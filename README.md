@@ -4,7 +4,7 @@ Derives Euler's number (e) in an optimized way using CUDA for maximum performanc
 # Concept
 This program computes e using the Taylor series expansion and parallel computing with CUDA, ensuring the fastest possible computation.
 
-💡 Idea by: Adhiraj1336 (Adhiraj Mishra) – Optimized calculation of e using GPU acceleration.
+💡 Idea by: Adhiraj1336 (Adhiraj Mishra) – Asked me to create the "Fastest" program that finds the value of e accurately upto 100 decimal places
 
 # ⚙ Prerequisites
 1️⃣ NVIDIA RTX GPU Required
